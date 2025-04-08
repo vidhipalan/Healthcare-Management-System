@@ -1,1 +1,0 @@
-# Healthcare-Management-System
