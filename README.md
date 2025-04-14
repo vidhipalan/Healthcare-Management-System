@@ -108,11 +108,6 @@ Implements `IPatientService` and `IProviderService` using:
 - REST interface: `IPatientMicroService`, `IProviderMicroService`
 - Configured using `microprofile-config.properties`
 
-Example:
-
-clinic-domain.api/mp-rest/uri=http://clinic-domain:8080/api/
-
-
 ---
 
 ## 📸 Submission Checklist
@@ -142,19 +137,11 @@ clinic-domain.api/mp-rest/uri=http://clinic-domain:8080/api/
   2. Demonstrate full web application + client interaction.
   3. Show logs confirming microservice and client activity.
 
-- 📝 Completed Rubric file
-
 ---
 
 ## 👤 Author
-*Please display your name at the beginning of the video (no email or CWID).*
-
----
-
-## ⚠️ Notes
-- Keep passwords out of source code.
-- Prefer Docker Secrets for secure DB credentials.
-- All videos must be in MP4 format and included in your submission ZIP.
+Vidhi Ashok Palan
+Graduate Student – Stevens Institute of Technology
 
 ---
 
